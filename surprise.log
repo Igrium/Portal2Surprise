@@ -16832,3 +16832,1805 @@ Average clusters audible: 67
 visdatasize:2161  compressed from 2400
 writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
 0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23071 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 58 texinfos to 41
+Reduced 13 texdatas to 13 (310 bytes to 310)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   396 / 65536 )
+nummapbrushes:    (    58 /  8192 )
+nummapbrushsides: (   354 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  82 portalclusters
+ 185 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 2890
+Average clusters visible: 35
+Building PAS...
+Average clusters audible: 74
+visdatasize:2532  compressed from 2624
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27431 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 59 texinfos to 42
+Reduced 13 texdatas to 13 (313 bytes to 313)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   402 / 65536 )
+nummapbrushes:    (    69 /  8192 )
+nummapbrushsides: (   420 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  83 portalclusters
+ 194 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.00%)
+Total clusters visible: 3001
+Average clusters visible: 36
+Building PAS...
+Average clusters audible: 74
+visdatasize:2557  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27431 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 43
+Reduced 13 texdatas to 13 (306 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   392 / 65536 )
+nummapbrushes:    (    69 /  8192 )
+nummapbrushsides: (   414 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  83 portalclusters
+ 193 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 3000
+Average clusters visible: 36
+Building PAS...
+Average clusters audible: 74
+visdatasize:2557  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27431 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 43
+Reduced 13 texdatas to 13 (306 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   388 / 65536 )
+nummapbrushes:    (    69 /  8192 )
+nummapbrushsides: (   414 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  86 portalclusters
+ 208 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.00%)
+Total clusters visible: 3238
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 77
+visdatasize:2640  compressed from 2752
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27431 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 43
+Reduced 13 texdatas to 13 (306 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   386 / 65536 )
+nummapbrushes:    (    69 /  8192 )
+nummapbrushsides: (   414 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  86 portalclusters
+ 208 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.00%)
+Total clusters visible: 3238
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 77
+visdatasize:2640  compressed from 2752
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27431 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 43
+Reduced 13 texdatas to 13 (306 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   386 / 65536 )
+nummapbrushes:    (    69 /  8192 )
+nummapbrushsides: (   414 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  86 portalclusters
+ 208 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.00%)
+Total clusters visible: 3238
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 77
+visdatasize:2640  compressed from 2752
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27431 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 43
+Reduced 13 texdatas to 13 (306 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   386 / 65536 )
+nummapbrushes:    (    69 /  8192 )
+nummapbrushsides: (   414 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  86 portalclusters
+ 208 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.00%)
+Total clusters visible: 3238
+Average clusters visible: 37
+Building PAS...
+Average clusters audible: 77
+visdatasize:2640  compressed from 2752
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27431 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 60 texinfos to 43
+Reduced 13 texdatas to 13 (306 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   388 / 65536 )
+nummapbrushes:    (    69 /  8192 )
+nummapbrushsides: (   414 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  82 portalclusters
+ 192 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.00%)
+Total clusters visible: 2938
+Average clusters visible: 35
+Building PAS...
+Average clusters audible: 73
+visdatasize:2540  compressed from 2624
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27431 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 61 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   402 / 65536 )
+nummapbrushes:    (    69 /  8192 )
+nummapbrushsides: (   419 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  83 portalclusters
+ 199 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.00%)
+Total clusters visible: 3035
+Average clusters visible: 36
+Building PAS...
+Average clusters audible: 74
+visdatasize:2566  compressed from 2656
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (27431 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 61 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   400 / 65536 )
+nummapbrushes:    (    69 /  8192 )
+nummapbrushsides: (   419 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   432 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   432 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   432 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   432 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   432 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    19 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   432 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    21 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   432 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    21 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   432 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    21 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   432 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    21 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   432 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    21 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 43
+Reduced 13 texdatas to 13 (306 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   398 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   426 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    22 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (28215 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 63 texinfos to 43
+Reduced 14 texdatas to 13 (351 bytes to 306)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   414 / 65536 )
+nummapbrushes:    (    71 /  8192 )
+nummapbrushsides: (   432 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     4 /  1024 )
+num_entities:     (    21 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  78 portalclusters
+ 175 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.00%)
+Total clusters visible: 2657
+Average clusters visible: 34
+Building PAS...
+Average clusters audible: 69
+visdatasize:2243  compressed from 2496
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    25 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    25 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    27 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    27 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    27 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    27 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    27 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    27 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    27 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    27 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    27 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31432 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 47
+Reduced 15 texdatas to 14 (383 bytes to 338)
+Writing C:\Program Files (x86)\Steam\steamapps\common\Portal 2\sdk_content\maps\Surprise\surprise.bsp
+
+nummapplanes:     (   456 / 65536 )
+nummapbrushes:    (    81 /  8192 )
+nummapbrushsides: (   492 / 65536 )
+num_map_overlays: (     0 /   512 )
+nummodels:        (     5 /  1024 )
+num_entities:     (    27 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.prt
+  90 portalclusters
+ 209 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.00%)
+Total clusters visible: 3614
+Average clusters visible: 40
+Building PAS...
+Average clusters audible: 78
+visdatasize:2909  compressed from 2880
+writing c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\surprise.bsp
+0 seconds elapsed
