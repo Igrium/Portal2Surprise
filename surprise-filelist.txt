@@ -52,6 +52,12 @@ models\police_ss.ani
 c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police_ss.ani
 models\police_ss.mdl
 c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police_ss.mdl
+models\cutscene\camera_cube.dx90.vtx
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\cutscene\camera_cube.dx90.vtx
+models\cutscene\camera_cube.mdl
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\cutscene\camera_cube.mdl
+models\cutscene\camera_cube.vvd
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\cutscene\camera_cube.vvd
 models\weapons\w_smg1.dx80.vtx
 c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\weapons\w_smg1.dx80.vtx
 models\weapons\w_smg1.dx90.vtx
