@@ -1,0 +1,776 @@
+materials\models\police\metrocop_sheet.vmt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\police\metrocop_sheet.vmt
+materials\models\police\metrocop_sheet.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\police\metrocop_sheet.vtf
+materials\models\shadertest\envball_1.vmt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_1.vmt
+materials\models\shadertest\envball_1.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_1.vtf
+materials\models\shadertest\envball_2.vmt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_2.vmt
+materials\models\shadertest\envball_2.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_2.vtf
+materials\models\shadertest\envball_3.vmt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_3.vmt
+materials\models\shadertest\envball_3.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_3.vtf
+materials\models\shadertest\envball_4.vmt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_4.vmt
+materials\models\shadertest\envball_4.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_4.vtf
+materials\models\shadertest\envball_5.vmt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_5.vmt
+materials\models\shadertest\envball_5.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_5.vtf
+materials\models\shadertest\envball_6.vmt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_6.vmt
+materials\models\shadertest\envball_6.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_6.vtf
+materials\models\shadertest\envball_6_normal.vmt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_6_normal.vmt
+materials\models\shadertest\envball_6_normal.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_6_normal.vtf
+materials\models\shadertest\shieldnoise0_normal.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\shieldnoise0_normal.vtf
+models\police.dx80.vtx
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police.dx80.vtx
+models\police.dx90.vtx
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police.dx90.vtx
+models\police.mdl
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police.mdl
+models\police.phy
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police.phy
+models\police.sw.vtx
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police.sw.vtx
+models\police.vvd
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police.vvd
+models\police_animations.ani
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police_animations.ani
+models\police_animations.mdl
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police_animations.mdl
+models\police_ss.ani
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police_ss.ani
+models\police_ss.mdl
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police_ss.mdl
+models\cutscene\camera_cube.dx90.vtx
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\cutscene\camera_cube.dx90.vtx
+models\cutscene\camera_cube.mdl
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\cutscene\camera_cube.mdl
+models\cutscene\camera_cube.vvd
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\cutscene\camera_cube.vvd
+models\props\ghostanim.ani
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\props\ghostanim.ani
+models\props\ghostanim.mdl
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\props\ghostanim.mdl
+models\props\ghostanim.vtx
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\props\ghostanim.vtx
+models\props\ghostanim.vvd
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\props\ghostanim.vvd
+models\weapons\w_smg1.dx80.vtx
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\weapons\w_smg1.dx80.vtx
+models\weapons\w_smg1.dx90.vtx
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\weapons\w_smg1.dx90.vtx
+models\weapons\w_smg1.mdl
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\weapons\w_smg1.mdl
+models\weapons\w_smg1.phy
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\weapons\w_smg1.phy
+models\weapons\w_smg1.sw.vtx
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\weapons\w_smg1.sw.vtx
+models\weapons\w_smg1.vvd
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\weapons\w_smg1.vvd
+scripts\game_sounds_manifest.txt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\scripts\game_sounds_manifest.txt
+scripts\level_sounds_trainyard.txt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\scripts\level_sounds_trainyard.txt
+scripts\npc_sounds_metropolice.txt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\scripts\npc_sounds_metropolice.txt
+sound\npc\metropolice\die1.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\die1.wav
+sound\npc\metropolice\die2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\die2.wav
+sound\npc\metropolice\die3.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\die3.wav
+sound\npc\metropolice\die4.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\die4.wav
+sound\npc\metropolice\gear1.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\gear1.wav
+sound\npc\metropolice\gear2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\gear2.wav
+sound\npc\metropolice\gear3.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\gear3.wav
+sound\npc\metropolice\gear4.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\gear4.wav
+sound\npc\metropolice\gear5.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\gear5.wav
+sound\npc\metropolice\gear6.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\gear6.wav
+sound\npc\metropolice\hiding02.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\hiding02.wav
+sound\npc\metropolice\hiding03.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\hiding03.wav
+sound\npc\metropolice\hiding04.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\hiding04.wav
+sound\npc\metropolice\hiding05.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\hiding05.wav
+sound\npc\metropolice\knockout2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\knockout2.wav
+sound\npc\metropolice\pain1.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\pain1.wav
+sound\npc\metropolice\pain2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\pain2.wav
+sound\npc\metropolice\pain3.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\pain3.wav
+sound\npc\metropolice\pain4.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\pain4.wav
+sound\npc\metropolice\takedown.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\takedown.wav
+sound\npc\metropolice\vo\11-99officerneedsassistance.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\11-99officerneedsassistance.wav
+sound\npc\metropolice\vo\404zone.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\404zone.wav
+sound\npc\metropolice\vo\acquiringonvisual.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\acquiringonvisual.wav
+sound\npc\metropolice\vo\administer.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\administer.wav
+sound\npc\metropolice\vo\affirmative.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\affirmative.wav
+sound\npc\metropolice\vo\affirmative2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\affirmative2.wav
+sound\npc\metropolice\vo\airwatchsubjectis505.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\airwatchsubjectis505.wav
+sound\npc\metropolice\vo\allrightyoucango.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\allrightyoucango.wav
+sound\npc\metropolice\vo\allunitsbol34sat.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\allunitsbol34sat.wav
+sound\npc\metropolice\vo\allunitscloseonsuspect.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\allunitscloseonsuspect.wav
+sound\npc\metropolice\vo\allunitscode2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\allunitscode2.wav
+sound\npc\metropolice\vo\allunitsmaintainthiscp.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\allunitsmaintainthiscp.wav
+sound\npc\metropolice\vo\allunitsmovein.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\allunitsmovein.wav
+sound\npc\metropolice\vo\allunitsreportlocationsuspect.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\allunitsreportlocationsuspect.wav
+sound\npc\metropolice\vo\allunitsrespondcode3.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\allunitsrespondcode3.wav
+sound\npc\metropolice\vo\amputate.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\amputate.wav
+sound\npc\metropolice\vo\anticitizen.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\anticitizen.wav
+sound\npc\metropolice\vo\anyonepickup647e.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\anyonepickup647e.wav
+sound\npc\metropolice\vo\apply.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\apply.wav
+sound\npc\metropolice\vo\assaultpointsecureadvance.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\assaultpointsecureadvance.wav
+sound\npc\metropolice\vo\atcheckpoint.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\atcheckpoint.wav
+sound\npc\metropolice\vo\backmeupimout.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\backmeupimout.wav
+sound\npc\metropolice\vo\backup.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\backup.wav
+sound\npc\metropolice\vo\block.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\block.wav
+sound\npc\metropolice\vo\blockisholdingcohesive.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\blockisholdingcohesive.wav
+sound\npc\metropolice\vo\breakhiscover.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\breakhiscover.wav
+sound\npc\metropolice\vo\bugs.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\bugs.wav
+sound\npc\metropolice\vo\bugsontheloose.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\bugsontheloose.wav
+sound\npc\metropolice\vo\canal.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\canal.wav
+sound\npc\metropolice\vo\canalblock.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\canalblock.wav
+sound\npc\metropolice\vo\catchthatbliponstabilization.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\catchthatbliponstabilization.wav
+sound\npc\metropolice\vo\cauterize.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\cauterize.wav
+sound\npc\metropolice\vo\checkformiscount.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\checkformiscount.wav
+sound\npc\metropolice\vo\chuckle.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\chuckle.wav
+sound\npc\metropolice\vo\citizen.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\citizen.wav
+sound\npc\metropolice\vo\citizensummoned.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\citizensummoned.wav
+sound\npc\metropolice\vo\classifyasdbthisblockready.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\classifyasdbthisblockready.wav
+sound\npc\metropolice\vo\clearandcode100.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\clearandcode100.wav
+sound\npc\metropolice\vo\clearno647no10-107.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\clearno647no10-107.wav
+sound\npc\metropolice\vo\code100.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\code100.wav
+sound\npc\metropolice\vo\code7.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\code7.wav
+sound\npc\metropolice\vo\condemnedzone.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\condemnedzone.wav
+sound\npc\metropolice\vo\confirmadw.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\confirmadw.wav
+sound\npc\metropolice\vo\confirmpriority1sighted.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\confirmpriority1sighted.wav
+sound\npc\metropolice\vo\contactwith243suspect.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\contactwith243suspect.wav
+sound\npc\metropolice\vo\contactwithpriority2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\contactwithpriority2.wav
+sound\npc\metropolice\vo\control100percent.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\control100percent.wav
+sound\npc\metropolice\vo\controlsection.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\controlsection.wav
+sound\npc\metropolice\vo\converging.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\converging.wav
+sound\npc\metropolice\vo\copy.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\copy.wav
+sound\npc\metropolice\vo\covermegoingin.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\covermegoingin.wav
+sound\npc\metropolice\vo\cpbolforthat243.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\cpbolforthat243.wav
+sound\npc\metropolice\vo\cpiscompromised.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\cpiscompromised.wav
+sound\npc\metropolice\vo\cpisoverrunwehavenocontainment.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\cpisoverrunwehavenocontainment.wav
+sound\npc\metropolice\vo\cprequestsallunitsreportin.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\cprequestsallunitsreportin.wav
+sound\npc\metropolice\vo\cpweneedtoestablishaperimeterat.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\cpweneedtoestablishaperimeterat.wav
+sound\npc\metropolice\vo\criminaltrespass63.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\criminaltrespass63.wav
+sound\npc\metropolice\vo\dbcountis.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\dbcountis.wav
+sound\npc\metropolice\vo\defender.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\defender.wav
+sound\npc\metropolice\vo\deservicedarea.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\deservicedarea.wav
+sound\npc\metropolice\vo\designatesuspectas.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\designatesuspectas.wav
+sound\npc\metropolice\vo\destroythatcover.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\destroythatcover.wav
+sound\npc\metropolice\vo\dismountinghardpoint.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\dismountinghardpoint.wav
+sound\npc\metropolice\vo\dispatchineed10-78.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\dispatchineed10-78.wav
+sound\npc\metropolice\vo\dispreportssuspectincursion.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\dispreportssuspectincursion.wav
+sound\npc\metropolice\vo\dispupdatingapb.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\dispupdatingapb.wav
+sound\npc\metropolice\vo\distributionblock.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\distributionblock.wav
+sound\npc\metropolice\vo\document.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\document.wav
+sound\npc\metropolice\vo\dontmove.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\dontmove.wav
+sound\npc\metropolice\vo\eight.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\eight.wav
+sound\npc\metropolice\vo\eighteen.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\eighteen.wav
+sound\npc\metropolice\vo\eighty.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\eighty.wav
+sound\npc\metropolice\vo\eleven.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\eleven.wav
+sound\npc\metropolice\vo\establishnewcp.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\establishnewcp.wav
+sound\npc\metropolice\vo\examine.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\examine.wav
+sound\npc\metropolice\vo\expired.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\expired.wav
+sound\npc\metropolice\vo\externaljurisdiction.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\externaljurisdiction.wav
+sound\npc\metropolice\vo\fifteen.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\fifteen.wav
+sound\npc\metropolice\vo\fifty.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\fifty.wav
+sound\npc\metropolice\vo\finalverdictadministered.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\finalverdictadministered.wav
+sound\npc\metropolice\vo\finalwarning.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\finalwarning.wav
+sound\npc\metropolice\vo\firetodislocateinterpose.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\firetodislocateinterpose.wav
+sound\npc\metropolice\vo\firingtoexposetarget.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\firingtoexposetarget.wav
+sound\npc\metropolice\vo\firstwarningmove.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\firstwarningmove.wav
+sound\npc\metropolice\vo\five.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\five.wav
+sound\npc\metropolice\vo\four.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\four.wav
+sound\npc\metropolice\vo\fourteen.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\fourteen.wav
+sound\npc\metropolice\vo\fourty.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\fourty.wav
+sound\npc\metropolice\vo\freeman.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\freeman.wav
+sound\npc\metropolice\vo\freenecrotics.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\freenecrotics.wav
+sound\npc\metropolice\vo\get11-44inboundcleaningup.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\get11-44inboundcleaningup.wav
+sound\npc\metropolice\vo\getdown.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\getdown.wav
+sound\npc\metropolice\vo\getoutofhere.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\getoutofhere.wav
+sound\npc\metropolice\vo\goingtotakealook.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\goingtotakealook.wav
+sound\npc\metropolice\vo\gota10-107sendairwatch.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\gota10-107sendairwatch.wav
+sound\npc\metropolice\vo\gothimagainsuspect10-20at.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\gothimagainsuspect10-20at.wav
+sound\npc\metropolice\vo\gotoneaccomplicehere.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\gotoneaccomplicehere.wav
+sound\npc\metropolice\vo\gotsuspect1here.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\gotsuspect1here.wav
+sound\npc\metropolice\vo\grenade.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\grenade.wav
+sound\npc\metropolice\vo\hardpointscanning.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\hardpointscanning.wav
+sound\npc\metropolice\vo\help.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\help.wav
+sound\npc\metropolice\vo\hero.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\hero.wav
+sound\npc\metropolice\vo\hesgone148.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\hesgone148.wav
+sound\npc\metropolice\vo\hesrunning.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\hesrunning.wav
+sound\npc\metropolice\vo\hesupthere.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\hesupthere.wav
+sound\npc\metropolice\vo\hidinglastseenatrange.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\hidinglastseenatrange.wav
+sound\npc\metropolice\vo\highpriorityregion.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\highpriorityregion.wav
+sound\npc\metropolice\vo\holdingon10-14duty.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\holdingon10-14duty.wav
+sound\npc\metropolice\vo\holdit.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\holdit.wav
+sound\npc\metropolice\vo\holditrightthere.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\holditrightthere.wav
+sound\npc\metropolice\vo\holdthisposition.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\holdthisposition.wav
+sound\npc\metropolice\vo\ihave10-30my10-20responding.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ihave10-30my10-20responding.wav
+sound\npc\metropolice\vo\industrialzone.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\industrialzone.wav
+sound\npc\metropolice\vo\infection.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\infection.wav
+sound\npc\metropolice\vo\infestedzone.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\infestedzone.wav
+sound\npc\metropolice\vo\inject.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\inject.wav
+sound\npc\metropolice\vo\innoculate.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\innoculate.wav
+sound\npc\metropolice\vo\inposition.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\inposition.wav
+sound\npc\metropolice\vo\inpositionathardpoint.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\inpositionathardpoint.wav
+sound\npc\metropolice\vo\inpositiononeready.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\inpositiononeready.wav
+sound\npc\metropolice\vo\intercede.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\intercede.wav
+sound\npc\metropolice\vo\interlock.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\interlock.wav
+sound\npc\metropolice\vo\investigate.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\investigate.wav
+sound\npc\metropolice\vo\investigating10-103.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\investigating10-103.wav
+sound\npc\metropolice\vo\is10-108.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\is10-108.wav
+sound\npc\metropolice\vo\is415b.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\is415b.wav
+sound\npc\metropolice\vo\isaidmovealong.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\isaidmovealong.wav
+sound\npc\metropolice\vo\isathardpointreadytoprosecute.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\isathardpointreadytoprosecute.wav
+sound\npc\metropolice\vo\isclosingonsuspect.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\isclosingonsuspect.wav
+sound\npc\metropolice\vo\isdown.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\isdown.wav
+sound\npc\metropolice\vo\isgo.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\isgo.wav
+sound\npc\metropolice\vo\ismovingin.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ismovingin.wav
+sound\npc\metropolice\vo\isolate.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\isolate.wav
+sound\npc\metropolice\vo\ispassive.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ispassive.wav
+sound\npc\metropolice\vo\isreadytogo.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\isreadytogo.wav
+sound\npc\metropolice\vo\issuingmalcompliantcitation.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\issuingmalcompliantcitation.wav
+sound\npc\metropolice\vo\ivegot408hereatlocation.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ivegot408hereatlocation.wav
+sound\npc\metropolice\vo\jury.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\jury.wav
+sound\npc\metropolice\vo\keepmoving.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\keepmoving.wav
+sound\npc\metropolice\vo\king.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\king.wav
+sound\npc\metropolice\vo\level3civilprivacyviolator.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\level3civilprivacyviolator.wav
+sound\npc\metropolice\vo\line.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\line.wav
+sound\npc\metropolice\vo\localcptreportstatus.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\localcptreportstatus.wav
+sound\npc\metropolice\vo\location.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\location.wav
+sound\npc\metropolice\vo\lock.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\lock.wav
+sound\npc\metropolice\vo\lockyourposition.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\lockyourposition.wav
+sound\npc\metropolice\vo\lookingfortrouble.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\lookingfortrouble.wav
+sound\npc\metropolice\vo\lookout.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\lookout.wav
+sound\npc\metropolice\vo\lookoutrogueviscerator.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\lookoutrogueviscerator.wav
+sound\npc\metropolice\vo\looseparasitics.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\looseparasitics.wav
+sound\npc\metropolice\vo\loyaltycheckfailure.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\loyaltycheckfailure.wav
+sound\npc\metropolice\vo\malcompliant10107my1020.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\malcompliant10107my1020.wav
+sound\npc\metropolice\vo\malignant.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\malignant.wav
+sound\npc\metropolice\vo\matchonapblikeness.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\matchonapblikeness.wav
+sound\npc\metropolice\vo\meters.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\meters.wav
+sound\npc\metropolice\vo\minorhitscontinuing.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\minorhitscontinuing.wav
+sound\npc\metropolice\vo\move.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\move.wav
+sound\npc\metropolice\vo\movealong.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\movealong.wav
+sound\npc\metropolice\vo\movealong3.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\movealong3.wav
+sound\npc\metropolice\vo\movebackrightnow.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\movebackrightnow.wav
+sound\npc\metropolice\vo\moveit.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\moveit.wav
+sound\npc\metropolice\vo\moveit2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\moveit2.wav
+sound\npc\metropolice\vo\movetoarrestpositions.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\movetoarrestpositions.wav
+sound\npc\metropolice\vo\movingtocover.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\movingtocover.wav
+sound\npc\metropolice\vo\movingtohardpoint.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\movingtohardpoint.wav
+sound\npc\metropolice\vo\movingtohardpoint2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\movingtohardpoint2.wav
+sound\npc\metropolice\vo\necrotics.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\necrotics.wav
+sound\npc\metropolice\vo\needanyhelpwiththisone.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\needanyhelpwiththisone.wav
+sound\npc\metropolice\vo\nine.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\nine.wav
+sound\npc\metropolice\vo\nineteen.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\nineteen.wav
+sound\npc\metropolice\vo\ninety.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ninety.wav
+sound\npc\metropolice\vo\nocontact.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\nocontact.wav
+sound\npc\metropolice\vo\non-taggedviromeshere.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\non-taggedviromeshere.wav
+sound\npc\metropolice\vo\noncitizen.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\noncitizen.wav
+sound\npc\metropolice\vo\nonpatrolregion.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\nonpatrolregion.wav
+sound\npc\metropolice\vo\novisualonupi.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\novisualonupi.wav
+sound\npc\metropolice\vo\nowgetoutofhere.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\nowgetoutofhere.wav
+sound\npc\metropolice\vo\off1.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\off1.wav
+sound\npc\metropolice\vo\off2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\off2.wav
+sound\npc\metropolice\vo\off3.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\off3.wav
+sound\npc\metropolice\vo\off4.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\off4.wav
+sound\npc\metropolice\vo\officerdowncode3tomy10-20.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\officerdowncode3tomy10-20.wav
+sound\npc\metropolice\vo\officerdowniam10-99.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\officerdowniam10-99.wav
+sound\npc\metropolice\vo\officerneedsassistance.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\officerneedsassistance.wav
+sound\npc\metropolice\vo\officerneedshelp.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\officerneedshelp.wav
+sound\npc\metropolice\vo\officerunderfiretakingcover.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\officerunderfiretakingcover.wav
+sound\npc\metropolice\vo\on1.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\on1.wav
+sound\npc\metropolice\vo\on2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\on2.wav
+sound\npc\metropolice\vo\one.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\one.wav
+sound\npc\metropolice\vo\onehundred.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\onehundred.wav
+sound\npc\metropolice\vo\outbreak.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\outbreak.wav
+sound\npc\metropolice\vo\outlandbioticinhere.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\outlandbioticinhere.wav
+sound\npc\metropolice\vo\outlandzone.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\outlandzone.wav
+sound\npc\metropolice\vo\pacifying.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\pacifying.wav
+sound\npc\metropolice\vo\patrol.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\patrol.wav
+sound\npc\metropolice\vo\pickingupnoncorplexindy.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\pickingupnoncorplexindy.wav
+sound\npc\metropolice\vo\pickupthecan1.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\pickupthecan1.wav
+sound\npc\metropolice\vo\pickupthecan2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\pickupthecan2.wav
+sound\npc\metropolice\vo\pickupthecan3.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\pickupthecan3.wav
+sound\npc\metropolice\vo\positiontocontain.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\positiontocontain.wav
+sound\npc\metropolice\vo\possible10-103alerttagunits.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\possible10-103alerttagunits.wav
+sound\npc\metropolice\vo\possible404here.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\possible404here.wav
+sound\npc\metropolice\vo\possible647erequestairwatch.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\possible647erequestairwatch.wav
+sound\npc\metropolice\vo\possiblelevel3civilprivacyviolator.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\possiblelevel3civilprivacyviolator.wav
+sound\npc\metropolice\vo\preparefor1015.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\preparefor1015.wav
+sound\npc\metropolice\vo\prepareforjudgement.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\prepareforjudgement.wav
+sound\npc\metropolice\vo\preparingtojudge10-107.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\preparingtojudge10-107.wav
+sound\npc\metropolice\vo\preserve.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\preserve.wav
+sound\npc\metropolice\vo\pressure.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\pressure.wav
+sound\npc\metropolice\vo\priority2anticitizenhere.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\priority2anticitizenhere.wav
+sound\npc\metropolice\vo\proceedtocheckpoints.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\proceedtocheckpoints.wav
+sound\npc\metropolice\vo\productionblock.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\productionblock.wav
+sound\npc\metropolice\vo\prosecute.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\prosecute.wav
+sound\npc\metropolice\vo\protectioncomplete.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\protectioncomplete.wav
+sound\npc\metropolice\vo\ptatlocationreport.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ptatlocationreport.wav
+sound\npc\metropolice\vo\ptgoagain.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ptgoagain.wav
+sound\npc\metropolice\vo\putitinthetrash1.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\putitinthetrash1.wav
+sound\npc\metropolice\vo\putitinthetrash2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\putitinthetrash2.wav
+sound\npc\metropolice\vo\quick.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\quick.wav
+sound\npc\metropolice\vo\readytoamputate.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\readytoamputate.wav
+sound\npc\metropolice\vo\readytojudge.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\readytojudge.wav
+sound\npc\metropolice\vo\readytoprosecute.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\readytoprosecute.wav
+sound\npc\metropolice\vo\readytoprosecutefinalwarning.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\readytoprosecutefinalwarning.wav
+sound\npc\metropolice\vo\reinforcementteamscode3.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\reinforcementteamscode3.wav
+sound\npc\metropolice\vo\reportsightingsaccomplices.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\reportsightingsaccomplices.wav
+sound\npc\metropolice\vo\repurposedarea.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\repurposedarea.wav
+sound\npc\metropolice\vo\requestsecondaryviscerator.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\requestsecondaryviscerator.wav
+sound\npc\metropolice\vo\residentialblock.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\residentialblock.wav
+sound\npc\metropolice\vo\responding2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\responding2.wav
+sound\npc\metropolice\vo\restrict.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\restrict.wav
+sound\npc\metropolice\vo\restrictedblock.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\restrictedblock.wav
+sound\npc\metropolice\vo\rodgerthat.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\rodgerthat.wav
+sound\npc\metropolice\vo\roller.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\roller.wav
+sound\npc\metropolice\vo\runninglowonverdicts.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\runninglowonverdicts.wav
+sound\npc\metropolice\vo\sacrificecode1maintaincp.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\sacrificecode1maintaincp.wav
+sound\npc\metropolice\vo\search.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\search.wav
+sound\npc\metropolice\vo\searchingforsuspect.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\searchingforsuspect.wav
+sound\npc\metropolice\vo\secondwarning.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\secondwarning.wav
+sound\npc\metropolice\vo\sector.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\sector.wav
+sound\npc\metropolice\vo\sentencedelivered.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\sentencedelivered.wav
+sound\npc\metropolice\vo\serve.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\serve.wav
+sound\npc\metropolice\vo\seven.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\seven.wav
+sound\npc\metropolice\vo\seventeen.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\seventeen.wav
+sound\npc\metropolice\vo\seventy.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\seventy.wav
+sound\npc\metropolice\vo\shit.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\shit.wav
+sound\npc\metropolice\vo\shotsfiredhostilemalignants.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\shotsfiredhostilemalignants.wav
+sound\npc\metropolice\vo\six.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\six.wav
+sound\npc\metropolice\vo\sixteen.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\sixteen.wav
+sound\npc\metropolice\vo\sixty.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\sixty.wav
+sound\npc\metropolice\vo\sociocide.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\sociocide.wav
+sound\npc\metropolice\vo\stabilizationjurisdiction.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\stabilizationjurisdiction.wav
+sound\npc\metropolice\vo\standardloyaltycheck.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\standardloyaltycheck.wav
+sound\npc\metropolice\vo\stationblock.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\stationblock.wav
+sound\npc\metropolice\vo\sterilize.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\sterilize.wav
+sound\npc\metropolice\vo\stick.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\stick.wav
+sound\npc\metropolice\vo\stillgetting647e.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\stillgetting647e.wav
+sound\npc\metropolice\vo\stormsystem.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\stormsystem.wav
+sound\npc\metropolice\vo\subject.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\subject.wav
+sound\npc\metropolice\vo\subjectis505.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\subjectis505.wav
+sound\npc\metropolice\vo\subjectisnowhighspeed.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\subjectisnowhighspeed.wav
+sound\npc\metropolice\vo\supsecthasmovednowto.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\supsecthasmovednowto.wav
+sound\npc\metropolice\vo\suspect11-6my1020is.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\suspect11-6my1020is.wav
+sound\npc\metropolice\vo\suspectinstormrunoff.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\suspectinstormrunoff.wav
+sound\npc\metropolice\vo\suspectisbleeding.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\suspectisbleeding.wav
+sound\npc\metropolice\vo\suspectlocationunknown.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\suspectlocationunknown.wav
+sound\npc\metropolice\vo\suspectusingrestrictedcanals.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\suspectusingrestrictedcanals.wav
+sound\npc\metropolice\vo\suspend.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\suspend.wav
+sound\npc\metropolice\vo\sweepingforsuspect.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\sweepingforsuspect.wav
+sound\npc\metropolice\vo\tag10-91d.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\tag10-91d.wav
+sound\npc\metropolice\vo\tagonebug.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\tagonebug.wav
+sound\npc\metropolice\vo\tagonenecrotic.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\tagonenecrotic.wav
+sound\npc\metropolice\vo\tagoneparasitic.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\tagoneparasitic.wav
+sound\npc\metropolice\vo\takecover.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\takecover.wav
+sound\npc\metropolice\vo\tap.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\tap.wav
+sound\npc\metropolice\vo\teaminpositionadvance.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\teaminpositionadvance.wav
+sound\npc\metropolice\vo\ten.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ten.wav
+sound\npc\metropolice\vo\ten2.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ten2.wav
+sound\npc\metropolice\vo\ten4.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ten4.wav
+sound\npc\metropolice\vo\ten8standingby.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ten8standingby.wav
+sound\npc\metropolice\vo\ten91dcountis.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ten91dcountis.wav
+sound\npc\metropolice\vo\ten97.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ten97.wav
+sound\npc\metropolice\vo\ten97suspectisgoa.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\ten97suspectisgoa.wav
+sound\npc\metropolice\vo\tenzerovisceratorishunting.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\tenzerovisceratorishunting.wav
+sound\npc\metropolice\vo\terminalrestrictionzone.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\terminalrestrictionzone.wav
+sound\npc\metropolice\vo\thatsagrenade.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\thatsagrenade.wav
+sound\npc\metropolice\vo\therehegoeshesat.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\therehegoeshesat.wav
+sound\npc\metropolice\vo\thereheis.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\thereheis.wav
+sound\npc\metropolice\vo\thirteen.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\thirteen.wav
+sound\npc\metropolice\vo\thirty.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\thirty.wav
+sound\npc\metropolice\vo\thisisyoursecondwarning.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\thisisyoursecondwarning.wav
+sound\npc\metropolice\vo\three.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\three.wav
+sound\npc\metropolice\vo\threehundred.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\threehundred.wav
+sound\npc\metropolice\vo\transitblock.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\transitblock.wav
+sound\npc\metropolice\vo\twelve.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\twelve.wav
+sound\npc\metropolice\vo\twenty.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\twenty.wav
+sound\npc\metropolice\vo\two.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\two.wav
+sound\npc\metropolice\vo\twohundred.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\twohundred.wav
+sound\npc\metropolice\vo\union.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\union.wav
+sound\npc\metropolice\vo\unitis10-65.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\unitis10-65.wav
+sound\npc\metropolice\vo\unitis10-8standingby.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\unitis10-8standingby.wav
+sound\npc\metropolice\vo\unitisonduty10-8.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\unitisonduty10-8.wav
+sound\npc\metropolice\vo\unitreportinwith10-25suspect.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\unitreportinwith10-25suspect.wav
+sound\npc\metropolice\vo\unlawfulentry603.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\unlawfulentry603.wav
+sound\npc\metropolice\vo\upi.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\upi.wav
+sound\npc\metropolice\vo\utlsuspect.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\utlsuspect.wav
+sound\npc\metropolice\vo\utlthatsuspect.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\utlthatsuspect.wav
+sound\npc\metropolice\vo\vacatecitizen.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\vacatecitizen.wav
+sound\npc\metropolice\vo\vice.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\vice.wav
+sound\npc\metropolice\vo\victor.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\victor.wav
+sound\npc\metropolice\vo\visceratordeployed.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\visceratordeployed.wav
+sound\npc\metropolice\vo\visceratorisoc.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\visceratorisoc.wav
+sound\npc\metropolice\vo\visceratorisoffgrid.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\visceratorisoffgrid.wav
+sound\npc\metropolice\vo\wasteriver.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\wasteriver.wav
+sound\npc\metropolice\vo\watchit.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\watchit.wav
+sound\npc\metropolice\vo\wearesociostablethislocation.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\wearesociostablethislocation.wav
+sound\npc\metropolice\vo\wegotadbherecancel10-102.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\wegotadbherecancel10-102.wav
+sound\npc\metropolice\vo\wehavea10-108.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\wehavea10-108.wav
+sound\npc\metropolice\vo\workforceintake.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\workforceintake.wav
+sound\npc\metropolice\vo\xray.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\xray.wav
+sound\npc\metropolice\vo\yellow.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\yellow.wav
+sound\npc\metropolice\vo\youknockeditover.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\youknockeditover.wav
+sound\npc\metropolice\vo\youwantamalcomplianceverdict.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\youwantamalcomplianceverdict.wav
+sound\npc\metropolice\vo\zero.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\zero.wav
+sound\npc\metropolice\vo\zone.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\zone.wav
+sound\npc\metropolice\vo\_comma.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\_comma.wav
