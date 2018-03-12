@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7552"
-	"mapversion" "865"
+	"mapversion" "877"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "865"
+	"mapversion" "877"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -3346,6 +3346,46 @@ world
 }
 entity
 {
+	"id" "130067"
+	"classname" "ambient_generic"
+	"health" "10"
+	"message" "surprise/intro.wav"
+	"pitch" "100"
+	"pitchstart" "100"
+	"radius" "1944"
+	"spawnflags" "49"
+	"targetname" "sound_intro1"
+	"origin" "88 272 9"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "130076"
+	"classname" "ambient_generic"
+	"health" "10"
+	"message" "surprise/intro.wav"
+	"pitch" "100"
+	"pitchstart" "100"
+	"radius" "1944"
+	"spawnflags" "49"
+	"targetname" "sound_intro1"
+	"origin" "144 272 9"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
 	"id" "129755"
 	"classname" "logic_playerproxy"
 	"targetname" "playerproxy"
@@ -3513,13 +3553,13 @@ entity
 	"id" "129236"
 	"classname" "ambient_generic"
 	"health" "10"
-	"message" "cavejohnson.DLC2_multiverse_transition"
+	"message" "surprise/intro.wav"
 	"pitch" "100"
 	"pitchstart" "100"
-	"radius" "1250"
-	"spawnflags" "48"
-	"targetname" "sound_multiverse_flash"
-	"origin" "82.4909 702.597 9"
+	"radius" "1944"
+	"spawnflags" "49"
+	"targetname" "sound_intro1"
+	"origin" "120 272 9"
 	editor
 	{
 		"color" "220 30 220"
@@ -24047,8 +24087,12 @@ entity
 	"id" "101899"
 	"classname" "func_instance"
 	"angles" "-0 180 0"
-	"file" "instances/p2editor/elevator_arrival_logic.vmf"
+	"file" "surprise/instances/elevator_arrival_logic.vmf"
 	"targetname" "arrival_elevator"
+	connections
+	{
+		"instance:elevator_arrival;OnTrigger" "sound_intro1PlaySound1-1"
+	}
 	"origin" "96 96 -144"
 	editor
 	{
@@ -24063,8 +24107,38 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-1628.97 1266.11 585.673]"
-		"look" "[-1684.97 1294.88 581.27]"
+		"position" "[15.4487 266.671 477.819]"
+		"look" "[-19.3722 214.262 472.977]"
+	}
+	camera
+	{
+		"position" "[127.087 1215.37 105.064]"
+		"look" "[116.232 1268.25 72.3711]"
+	}
+	camera
+	{
+		"position" "[127.087 1215.37 105.064]"
+		"look" "[116.232 1268.25 72.3711]"
+	}
+	camera
+	{
+		"position" "[-1328.35 -414.129 12.6516]"
+		"look" "[-1338.82 -354.756 31.314]"
+	}
+	camera
+	{
+		"position" "[127.087 1215.37 105.064]"
+		"look" "[116.232 1268.25 72.3711]"
+	}
+	camera
+	{
+		"position" "[127.087 1215.37 105.064]"
+		"look" "[116.232 1268.25 72.3711]"
+	}
+	camera
+	{
+		"position" "[50.9778 255.1 -7.25789]"
+		"look" "[111.248 265.293 -22.9522]"
 	}
 	camera
 	{

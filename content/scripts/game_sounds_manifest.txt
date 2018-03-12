@@ -101,6 +101,7 @@ game_sounds_manifest
 
 	//BR
 	"precache_file"		"scripts/game_sounds_BR_world.txt"
+	"precache_file"         "scripts/game_sounds_surprisevo"
 
 	// 	taunts for the store
 	"precache_file"		"scripts/game_sounds_taunts_egg.txt"

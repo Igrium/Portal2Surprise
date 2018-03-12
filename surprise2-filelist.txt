@@ -32,6 +32,16 @@ materials\models\shadertest\envball_6_normal.vtf
 c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\envball_6_normal.vtf
 materials\models\shadertest\shieldnoise0_normal.vtf
 c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\shadertest\shieldnoise0_normal.vtf
+materials\models\weapons\w_smg1\smg_crosshair.vmt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\weapons\w_smg1\smg_crosshair.vmt
+materials\models\weapons\w_smg1\smg_crosshair.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\weapons\w_smg1\smg_crosshair.vtf
+materials\models\weapons\w_smg1\w_smg2.vmt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\weapons\w_smg1\w_smg2.vmt
+materials\models\weapons\w_smg1\w_smg2.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\weapons\w_smg1\w_smg2.vtf
+materials\models\weapons\w_smg1\w_smg2specularmask.vtf
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\materials\models\weapons\w_smg1\w_smg2specularmask.vtf
 models\police.dx80.vtx
 c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\police.dx80.vtx
 models\police.dx90.vtx
@@ -80,6 +90,8 @@ models\weapons\w_smg1.vvd
 c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\models\weapons\w_smg1.vvd
 scripts\game_sounds_manifest.txt
 c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\scripts\game_sounds_manifest.txt
+scripts\game_sounds_surprisevo.txt
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\scripts\game_sounds_surprisevo.txt
 scripts\level_sounds_trainyard.txt
 c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\scripts\level_sounds_trainyard.txt
 scripts\npc_sounds_metropolice.txt
@@ -774,3 +786,7 @@ sound\npc\metropolice\vo\zone.wav
 c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\zone.wav
 sound\npc\metropolice\vo\_comma.wav
 c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\npc\metropolice\vo\_comma.wav
+sound\surprise\intro.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\surprise\intro.wav
+sound\surprise\surprise.wav
+c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\surprise\content\sound\surprise\surprise.wav
