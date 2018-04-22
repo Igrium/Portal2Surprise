@@ -1,3 +1,5 @@
 Fix Elevator Lighting
+Fix laser skip in test
+Fix bug where players can escape the trap
 Test upload on workshop
 Thumbnail
