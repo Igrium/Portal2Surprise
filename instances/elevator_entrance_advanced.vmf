@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7552"
-	"mapversion" "892"
+	"mapversion" "896"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "892"
+	"mapversion" "896"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -14283,16 +14283,6 @@ world
 	}
 	group
 	{
-		"id" "131452"
-		editor
-		{
-			"color" "110 167 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	group
-	{
 		"id" "131775"
 		editor
 		{
@@ -20801,7 +20791,7 @@ entity
 	"classname" "prop_static"
 	"angles" "0 90 -180"
 	"disableselfshadowing" "0"
-	"disableshadows" "0"
+	"disableshadows" "1"
 	"disablevertexlighting" "0"
 	"drawinfastreflection" "0"
 	"fademaxdist" "0"
@@ -25992,8 +25982,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[179.727 -21.1659 -21.7906]"
-		"look" "[129.098 -45.8588 -50.2446]"
+		"position" "[-72.5198 60.1574 -48.2022]"
+		"look" "[-105.154 48.7936 -101.009]"
 	}
 	camera
 	{
