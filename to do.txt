@@ -1,5 +1,5 @@
-Fix Elevator Lighting
-Fix laser skip in test
-Fix bug where players can escape the trap
+Add combine sounds in elevator
+Add music??
+Make second test more interesting
 Test upload on workshop
 Thumbnail
