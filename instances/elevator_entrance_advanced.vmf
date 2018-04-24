@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7552"
-	"mapversion" "896"
+	"mapversion" "899"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "896"
+	"mapversion" "899"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -17986,32 +17986,6 @@ entity
 }
 entity
 {
-	"id" "129492"
-	"classname" "game_text"
-	"channel" "3"
-	"color" "255 255 255"
-	"color2" "205 205 205"
-	"effect" "2"
-	"fadein" ".06"
-	"fadeout" "0.5"
-	"fxtime" ".5"
-	"holdtime" "5"
-	"message" "PORTAL2_PuzzleEditor_Preview_Complete"
-	"spawnflags" "1"
-	"targetname" "@preview_complete_message"
-	"x" "-1"
-	"y" ".6"
-	"origin" "142.194 730.17 8"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 1500]"
-	}
-}
-entity
-{
 	"id" "129159"
 	"classname" "env_fade"
 	"duration" "1"
@@ -18038,8 +18012,6 @@ entity
 	"targetname" "@relay_multiverse_flash"
 	connections
 	{
-		"OnTrigger" "multiverse_flashFade0-1"
-		"OnTrigger" "sound_multiverse_flashPlaySound0-1"
 		"OnTrigger" "relay_motionblurTrigger0-1"
 	}
 	"origin" "99.2995 719.47 9"
@@ -18099,7 +18071,7 @@ entity
 	"_distance" "0"
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
-	"_light" "80 89 97"
+	"_light" "56 63 69"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -18125,7 +18097,7 @@ entity
 	"_distance" "0"
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
-	"_light" "80 89 97"
+	"_light" "56 63 69"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -18151,7 +18123,7 @@ entity
 	"_distance" "0"
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
-	"_light" "80 89 97"
+	"_light" "56 63 69"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -18177,7 +18149,7 @@ entity
 	"_distance" "0"
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
-	"_light" "80 89 97"
+	"_light" "56 63 69"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -18203,7 +18175,7 @@ entity
 	"_distance" "0"
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
-	"_light" "80 89 97"
+	"_light" "56 63 69"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -18229,7 +18201,7 @@ entity
 	"_distance" "0"
 	"_fifty_percent_distance" "0"
 	"_hardfalloff" "0"
-	"_light" "80 89 97"
+	"_light" "56 63 69"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
 	"_linear_attn" "0"
@@ -25982,8 +25954,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-72.5198 60.1574 -48.2022]"
-		"look" "[-105.154 48.7936 -101.009]"
+		"position" "[52.9183 -24.826 96.3416]"
+		"look" "[114.646 -25.2567 109.463]"
 	}
 	camera
 	{
