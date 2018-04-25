@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7552"
-	"mapversion" "899"
+	"mapversion" "901"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -38,7 +38,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "899"
+	"mapversion" "901"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -14324,6 +14324,51 @@ world
 }
 entity
 {
+	"id" "132045"
+	"classname" "env_cubemap"
+	"cubemapsize" "6"
+	"sides" ""
+	"origin" "96 576 -96"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "132051"
+	"classname" "env_cubemap"
+	"cubemapsize" "6"
+	"sides" ""
+	"origin" "96 448 48"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "132054"
+	"classname" "env_cubemap"
+	"cubemapsize" "6"
+	"sides" ""
+	"origin" "96 752 48"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
 	"id" "130538"
 	"classname" "light"
 	"_light" "255 255 255 150"
@@ -25954,8 +25999,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[52.9183 -24.826 96.3416]"
-		"look" "[114.646 -25.2567 109.463]"
+		"position" "[26.35 5.91587 72.9492]"
+		"look" "[73.5365 -35.3952 65.9146]"
 	}
 	camera
 	{
