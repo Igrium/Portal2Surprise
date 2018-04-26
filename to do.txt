@@ -1,4 +1,3 @@
-darken lighting in enterance elevator
 Make second test more interesting
 Test upload on workshop
 Thumbnail
