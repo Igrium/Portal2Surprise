@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7552"
-	"mapversion" "2121"
+	"mapversion" "2123"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -44,7 +44,7 @@ viewsettings
 world
 {
 	"id" "59054"
-	"mapversion" "2121"
+	"mapversion" "2123"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -114558,7 +114558,7 @@ entity
 	"id" "62829"
 	"classname" "func_instance"
 	"angles" "0 0 0"
-	"file" "instances/p2editor/floor_button_white_intact.vmf"
+	"file" "instances/p2editor/floor_button_black_intact.vmf"
 	"targetname" "button8"
 	connections
 	{
